@@ -1,0 +1,8 @@
+﻿  boss.cpp
+  manager.cpp
+  workerManager.cpp
+D:\learn\C++\C++primer\职工管理\职工管理系统\workerManager.cpp(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  employee.cpp
+  职工管理系统.cpp
+  正在生成代码...
+  职工管理系统.vcxproj -> D:\learn\C++\C++primer\职工管理\Debug\职工管理系统.exe
